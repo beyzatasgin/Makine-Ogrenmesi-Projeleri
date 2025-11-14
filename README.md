@@ -224,11 +224,7 @@ pip install pandas numpy scikit-learn pycaret plotly matplotlib seaborn nltk
 3. KNIME workflow dosyalarını KNIME Analytics Platform'da açın
 4. Veri setlerini ilgili klasörlere yerleştirin
 
-### Notlar
 
-- Bazı notebook'lar Google Colab için hazırlanmıştır (Google Drive mount kodu içerir)
-- Yerel ortamda çalıştırmak için veri yolu ayarlarını güncelleyin
-- KNIME workflow'larını açmak için KNIME Analytics Platform gerekir
 
 ## 📝 Dokümantasyon
 
@@ -237,19 +233,10 @@ Her proje için ayrıntılı dokümantasyon mevcuttur:
 - **KNIME Workflow**: Workflow açıklamaları ve node yapılandırmaları
 - **Word Dokümantasyonu**: Detaylı proje raporu (CRISP-DM metodolojisine göre)
 
-## 🤝 Katkıda Bulunma
-
-Bu proje eğitim amaçlı geliştirilmiştir. Sorularınız veya önerileriniz için issue açabilirsiniz.
 
 ## 📄 Lisans
 
 Bu proje eğitim amaçlıdır.
-
-## 👤 Yazar
-
-Bu projeler Sakarya Üniversitesi staj programı kapsamında geliştirilmiştir.
-
----
 
 **Not**: Bu projeler sağlık alanında makine öğrenmesi uygulamalarını göstermek amacıyla hazırlanmıştır. Gerçek tıbbi kararlar için kullanılmamalıdır.
 
