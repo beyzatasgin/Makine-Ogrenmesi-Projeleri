@@ -198,7 +198,7 @@ Bu repository aşağıdaki 5 makine öğrenmesi projesini içermektedir:
 - Anomaly Detection node'ları
 - AutoML extension'ları
 
-## 📊 CRISP-DM Metodolojisi
+##  CRISP-DM Metodolojisi
 
 Tüm projeler **CRISP-DM (Cross-Industry Standard Process for Data Mining)** metodolojisine göre yapılandırılmıştır:
 
