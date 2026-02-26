@@ -2,7 +2,7 @@
 
 Bu repository, sağlık alanında 5 farklı makine öğrenmesi projesini içermektedir. Her proje **CRISP-DM metodolojisi** kullanılarak geliştirilmiş ve hem **KNIME** hem de **Python** ile çözülmüştür.
 
-## 📋 Proje İçeriği
+##  Proje İçeriği
 
 Bu repository aşağıdaki 5 makine öğrenmesi projesini içermektedir:
 
@@ -12,7 +12,7 @@ Bu repository aşağıdaki 5 makine öğrenmesi projesini içermektedir:
 4. **Classification**: Su Kalitesi Analizi
 5. **Association Rule / Anomaly Detection**: COVID-19 Aşıları Analizi
 
-## 🎯 Proje Gereksinimleri
+##  Proje Gereksinimleri
 
 - Her proje **CRISP-DM metodolojisine** göre başlıklara bölünmüştür
 - Problemler hem **KNIME** hem de **Python** ile çözülmüştür
@@ -20,7 +20,7 @@ Bu repository aşağıdaki 5 makine öğrenmesi projesini içermektedir:
 - Birden fazla model kullanılmıştır
 - **Auto ML** kullanılmıştır (Metasezgisel algoritmalarla parametre en iyileme ve en uygun algoritmanın seçilmesi)
 
-## 📁 Proje Yapısı
+##  Proje Yapısı
 
 ```
 5ML/
@@ -56,7 +56,7 @@ Bu repository aşağıdaki 5 makine öğrenmesi projesini içermektedir:
     └── project-5.docx
 ```
 
-## 🔬 Proje Detayları
+##  Proje Detayları
 
 ### 1. Meme Kanseri Hayatta Kalma Tahmini (Classification)
 
@@ -180,7 +180,7 @@ Bu repository aşağıdaki 5 makine öğrenmesi projesini içermektedir:
 - Evaluation
 - Deployment
 
-## 🛠️ Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 
 ### Python Kütüphaneleri
 - `pandas` - Veri manipülasyonu
@@ -209,7 +209,7 @@ Tüm projeler **CRISP-DM (Cross-Industry Standard Process for Data Mining)** met
 5. **Evaluation**: Model performansının değerlendirilmesi
 6. **Deployment**: Modelin dağıtımı ve kullanımı
 
-## 🚀 Kurulum ve Kullanım
+##  Kurulum ve Kullanım
 
 ### Gereksinimler
 
@@ -226,7 +226,7 @@ pip install pandas numpy scikit-learn pycaret plotly matplotlib seaborn nltk
 
 
 
-## 📝 Dokümantasyon
+##  Dokümantasyon
 
 Her proje için ayrıntılı dokümantasyon mevcuttur:
 - **Python Notebook**: Kod açıklamaları ve analiz adımları
@@ -234,9 +234,4 @@ Her proje için ayrıntılı dokümantasyon mevcuttur:
 - **Word Dokümantasyonu**: Detaylı proje raporu (CRISP-DM metodolojisine göre)
 
 
-## 📄 Lisans
-
-Bu proje eğitim amaçlıdır.
-
-**Not**: Bu projeler sağlık alanında makine öğrenmesi uygulamalarını göstermek amacıyla hazırlanmıştır. Gerçek tıbbi kararlar için kullanılmamalıdır.
 
